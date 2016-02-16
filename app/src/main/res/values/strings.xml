@@ -1,0 +1,158 @@
+<resources>
+    <string name="app_name">FitoForm</string>
+    <!-- Strings norelated to application just test -->
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Strings related to application -->
+    <string name="prescricao">Prescrição de Cadeira de Rodas</string>
+    <string name="loginname">login</string>
+    <string name="cadastro">cadastro</string>
+    <string name="bemvindo">Bem-vindo ao FitoForm </string>
+    <string name="prescricaonova">Nova prescrição</string>
+    <string name="prescricaohistorico">histórico de prescrições</string>
+    <string name="tususariocadastro">Cadastro novo usuário</string>
+    <string name="usuario">Nome</string>
+    <string name="usuariofisio">Fisioterapeuta</string>
+    <string name="usuarioto">Terapeuta Ocupacional</string>
+    <string name="usuariocrefito">Crefito</string>
+    <string name="usuarioemail">Email</string>
+    <string name="tpacientecadastro">Dados do paciente/protagonista</string>
+    <string name="pacientenome">Paciente</string>
+    <string name="pacientedata">Data de nascimento</string>
+    <string name="pacientepeso">Peso</string>
+    <string name="pacientealtura">Altura</string>
+    <string name="pacientediagn">Diagnóstico</string>
+    <string name="pacientecif">CIF</string>
+    <string name="pacienteemail">email</string>
+    <string name="Tinfoprincipal">Informações principais</string>
+    <string name="tcadeira">Tipo de Cadeira de Rodas</string>
+    <string name="cadeirainfantil">Cadeira de Rodas infantil</string>
+    <string name="cadeiramanual">Cadeira de rodas manual</string>
+    <string name="cadeiramotorizada">Cadeira de rodas motorizada</string>
+    <string name="tfuncionalidade">Funcionalidade</string>
+    <string name="funcionalidadedependente">Dependente </string>
+    <string name="funcionalidadesemidependente">Semi-dependente</string>
+    <string name="funcionalidadeindependente">Independente</string>
+    <string name="tcomprometimento">Comprometimento Motor</string>
+    <string name="comprometimentohemiplegia">Hemiplegia</string>
+    <string name="comprometimentodipara">Diplegia/Paraplegia</string>
+    <string name="comprometimentoquadritetra">Quadriplegia/Tetraplegia</string>
+    <string name="comprometimentottonus">Tônus Muscular</string>
+    <string name="comprometimentohipertonia">Hipertonia</string>
+    <string name="comprometimentohipotonia">Hipotonia</string>
+    <string name="comprometimentoatetose">Atetose</string>
+    <string name="Tcomprosseo">Comprometimento de Estruturas Ósteo-articulares</string>
+    <string name="comprosseoescoliose">Escoliose</string>
+    <string name="comprosseocifose">Cifose</string>
+    <string name="comprosseohiperlordose">Hiperlordose</string>
+    <string name="comprosseoluxacaosub">Sub-Luxação de Quadril</string>
+    <string name="comprosseoluxacaoqua">Luxação de Quadril</string>
+    <string name="contrcervical">Controle cervical</string>
+    <string name="contrcomp">Completo</string>
+    <string name="contrincom">Incompleto</string>
+    <string name="contrtronco">Controle de tronco</string>
+    <string name="contrtrpleno">Completo</string>
+    <string name="contrtrincomp">Incompleto</string>
+    <string name="testilodevida">Estilo de vida e ambiente</string>
+    <string name="estiloonde">Onde o usuário utilizará a cadeira de rodas?</string>
+    <string name="estilochao">chão irregular calçamento ambos</string>
+    <string name="estilodistancia">Distância percorrida por dia</string>
+    <string name="estilodis1">Até 1 km </string>
+    <string name="estilodis15">De 1–5 km  </string>
+    <string name="estilodis5">Mais de 5 km  </string>
+    <string name="estilohr">Quantas horas de uso da cadeira de rodas por dia ?</string>
+    <string name="estilohr1">Menos de 1h</string>
+    <string name="estilohr13">De 1h a 3h</string>
+    <string name="estilohr35">De 3h a 5h</string>
+    <string name="estilohr58">De 5h a 8h</string>
+    <string name="estilohr8mais">Mais de 8 horas</string>
+    <string name="estiloimp">Como o usuário impulsionará a cadeira de rodas? </string>
+    <string name="estiloimp2b">Dois braços</string>
+    <string name="estiloimpbe">Braço esquerdo </string>
+    <string name="estiloimpbd">Braço direito  </string>
+    <string name="estiloimp2i">Membros inferiores</string>
+    <string name="estiloimpie">Membro inferior esquerdo</string>
+    <string name="estiloimpid">Membro inferior direito</string>
+    <string name="estiloimpaux">Empurrado por auxiliar</string>
+    <string name="Tmedidas">Medidas da cadeira de rodas</string>
+    <string name="medidasa">A – Largura do assento </string>
+    <string name="medidasb">B – Profundidade do assento </string>
+    <string name="medidasc">C – Altura do assento ao chão – dianteira </string>
+    <string name="medidasd">D – Altura do assento ao chão – traseira </string>
+    <string name="medidase">E – Altura do assento ao apoio de pés </string>
+    <string name="medidasf">F – Altura do encosto </string>
+    <string name="medidasg">G –  ngulo do encosto </string>
+    <string name="medidash">H – Centro de gravidade das rodas traseiras</string>
+    <string name="medidasi">I – Largura inferior do apoio de pés</string>
+    <string name="medidasj">J – Cambagem (inclinação da roda traseira)</string>
+    <string name="medidask">K – Distância da roda ao quadro</string>
+    <string name="medidasl">L - Altura do apoio de braços</string>
+    <string name="medidasatxt">Medida com a pessoa sentada na cadeira, na região mais larga do seu quadril + folga de 2cm de cada lado </string>
+    <string name="medidasbtxt">Medida entre a região sacral até a fosse poplítea - 4 cm para obter a medida final.</string>
+    <string name="medidasctxt">Medida da altura dos joelhos. </string>
+    <string name="medidasdtxt">Medida da altura traseira do assento ao chão </string>
+    <string name="medidasetxt">Mínimo de 5cm de altura do chão para facilitar o manejo da cadeira de rodas.</string>
+    <string name="medidasftxt">Não deve  ultrapassar a altura da sua escápula.  O profissional deve ter bastante cuidados ao avaliar as condições físicas  do paciente. </string>
+    <string name="medidasgtxt">Tronco mais ereto ou pouco reclinado. Variação de 90º</string>
+    <string name="medidashtxt">Medida importante. De acordo com a posição das rodas traseiras, mais à frente ou atrás, a cadeira fica mais fácil de tocar, pois distribue-se melhor o peso. </string>
+    <string name="medidasitxt">Medida da largura inferior do apoio de pés</string>
+    <string name="medidasjtxt">É o ângulo de inclinação das rodas traseiras, em cadeiras utilizadas para a prática de esportes é muito comum vermos as rodas inclinadas, pode-se optar por uma pequena inclinação, mas lembramos que isso aumenta a largura total de sua cadeira. </string>
+    <string name="medidasktxt">Essa medida também afeta a largura total da cadeira e sempre recomendamos que ela seja a menor possível. </string>
+    <string name="medidasltxt">Usuário sentado, mede-se do assento da cadeira até o cotovelo em um angulo de 90º sem elevar ou deprimir o ombro.</string>
+    <string name="tacessadpost">Acessórios adequação postural</string>
+    <string name="acessadposttxt">Necessidade  de acessórios para adequação postural?</string>
+    <string name="acessadpostsim">Sim</string>
+    <string name="acessadpostnao">Não</string>
+    <string name="tassento">Assento</string>
+    <string name="assentoplano">Plano</string>
+    <string name="assentoanatomico">Anatômico</string>
+    <string name="assentorigido">Rígido</string>
+    <string name="tencosto">Encosto</string>
+    <string name="encostoplano">Plano</string>
+    <string name="encostoanatomico">Anatômico</string>
+    <string name="encostodigitalizado">Digitalizado</string>
+    <string name="encostoescavado">Escavado</string>
+    <string name="tacessorio">Acessórios para controle postural</string>
+    <string name="tapoiocab">Apoio para cabeça</string>
+    <string name="apoiocabplano">Plano</string>
+    <string name="apoiocabconcavo">Concavo</string>
+    <string name="apoiocabavancado">Avançado</string>
+    <string name="tcinto">Cinto de segurança</string>
+    <string name="cintopelvico">Pélvico</string>
+    <string name="cintoabdominal">Abdominal</string>
+    <string name="cintoemh">em H</string>
+    <string name="suportetl">Suporte de tronco lateral</string>
+    <string name="toutros">Outros</string>
+    <string name="apanta">Apoio Panturrilhas    </string>
+    <string name="adqua">Adutor de Quadril</string>
+    <string name="blqua">Bloqueador de Joelho</string>
+    <string name="tmaterial">Material Cadeira de rodas</string>
+    <string-array name="material">
+        <item>Aço</item>
+        <item>Aço-Carbono</item>
+        <item>Alumínio</item>
+    </string-array>
+
+    <string name="btavancar">Avançar</string>
+    <string name="btvoltar">Voltar</string>
+    <string name="btconcluir">Concluir</string>
+    <string name="btrevisar">Revisar</string>
+    <string name="btsalvar">Salvar</string>
+    <string name="bemvindobtatual">Atualizar dados paciente</string>
+    <string name="bemvindobtnovo">Novo Paciente</string>
+
+    <string name="tcor">Cor aros</string>
+    <string-array name="cores">
+        <item>metálico (sem cor)</item>
+        <item>verde</item>
+        <item>Roxo</item>
+        <item>Vermelho</item>
+        <item>Azul</item>
+        <item>Amarelo</item>
+    </string-array>
+    <string name="title_activity_dados_paciente">DadosPAcienteActivity</string>
+    <string name="btlogin">Login</string>
+    <string name="btcancelar">cancelar</string>
+
+</resources>
