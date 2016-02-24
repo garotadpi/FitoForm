@@ -8,14 +8,17 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".InicialActivity">
+        <activity android:name=".LoginActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".Dadospaciente"></activity>
+        <activity android:name=".SecondActivity" />
+        <activity android:name=".CadastroActivity" />
+        <activity android:name=".CadeiraAActivity" />
+        <activity android:name=".CadeiraBActivity"></activity>
     </application>
 
 </manifest>

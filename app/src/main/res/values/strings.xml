@@ -6,7 +6,7 @@
 
     <!-- Strings related to application -->
     <string name="prescricao">Prescrição de Cadeira de Rodas</string>
-    <string name="loginname">login</string>
+    <string name="loginname">Login</string>
     <string name="cadastro">cadastro</string>
     <string name="bemvindo">Bem-vindo ao FitoForm </string>
     <string name="prescricaonova">Nova prescrição</string>
@@ -56,7 +56,8 @@
     <string name="contrtrincomp">Incompleto</string>
     <string name="testilodevida">Estilo de vida e ambiente</string>
     <string name="estiloonde">Onde o usuário utilizará a cadeira de rodas?</string>
-    <string name="estilochao">chão irregular calçamento ambos</string>
+    <string name="estilochao">chão</string>
+    <string name="estilocalcamento">calçamento</string>
     <string name="estilodistancia">Distância percorrida por dia</string>
     <string name="estilodis1">Até 1 km </string>
     <string name="estilodis15">De 1–5 km  </string>
@@ -154,5 +155,9 @@
     <string name="title_activity_dados_paciente">DadosPAcienteActivity</string>
     <string name="btlogin">Login</string>
     <string name="btcancelar">cancelar</string>
+    <string name="loginsenha">senha:</string>
+    <string name="logintxtsenha">Senha:</string>
+    <string name="logintxtcrefito">Crefito:</string>
+    <string name="loginncrefito">identificação</string>
 
 </resources>
