@@ -18,7 +18,13 @@
         <activity android:name=".SecondActivity" />
         <activity android:name=".CadastroActivity" />
         <activity android:name=".CadeiraAActivity" />
-        <activity android:name=".CadeiraBActivity"></activity>
+        <activity android:name=".CadeiraBActivity" />
+        <activity android:name=".CadeiraCActivity" />
+        <activity android:name=".CadeiraDActivity" />
+        <activity android:name=".CadeiraEActivity" />
+        <activity android:name=".CadeiraFActivity" />
+        <activity android:name=".CadeiraGActivity" />
+        <activity android:name=".FinalActivity"></activity>
     </application>
 
 </manifest>

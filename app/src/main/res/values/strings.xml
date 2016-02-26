@@ -125,15 +125,14 @@
     <string name="cintoemh">em H</string>
     <string name="suportetl">Suporte de tronco lateral</string>
     <string name="toutros">Outros</string>
-    <string name="apanta">Apoio Panturrilhas    </string>
+    <string name="apanta">Apoio Panturrilhas</string>
     <string name="adqua">Adutor de Quadril</string>
     <string name="blqua">Bloqueador de Joelho</string>
+    <string name="textras">Extras e Opcionais</string>
     <string name="tmaterial">Material Cadeira de rodas</string>
-    <string-array name="material">
-        <item>Aço</item>
-        <item>Aço-Carbono</item>
-        <item>Alumínio</item>
-    </string-array>
+    <string name="mataco">Aço</string>
+    <string name="matacocarb">Aço-Carbono</string>
+    <string name="mataluminio">Alumínio</string>
 
     <string name="btavancar">Avançar</string>
     <string name="btvoltar">Voltar</string>
@@ -144,17 +143,22 @@
     <string name="bemvindobtnovo">Novo Paciente</string>
 
     <string name="tcor">Cor aros</string>
-    <string-array name="cores">
-        <item>metálico (sem cor)</item>
-        <item>verde</item>
-        <item>Roxo</item>
-        <item>Vermelho</item>
-        <item>Azul</item>
-        <item>Amarelo</item>
-    </string-array>
+    <string name="tcormet">Metálico (sem cor)</string>
+    <string name="tcorverde">Verde</string>
+    <string name="tcorroxo">Roxo</string>
+    <string name="tcorvermelho">Vermelho</string>
+    <string name="tcorazul">Azul</string>
+    <string name="tcoramarelo">Amarelo</string>
+
     <string name="title_activity_dados_paciente">DadosPAcienteActivity</string>
     <string name="btlogin">Login</string>
     <string name="btcancelar">cancelar</string>
+    <string name="btenviar">enviar</string>
+    <string name="tenviar">Enviar informações para:</string>
+    <string name="trevisar">Revisar informações</string>
+    <string name="revisarrtxt">Texto das informações</string>
+    <string name="envpaciente">para email do paciente</string>
+    <string name="enviarprof">para email profissional</string>
     <string name="loginsenha">senha:</string>
     <string name="logintxtsenha">Senha:</string>
     <string name="logintxtcrefito">Crefito:</string>
