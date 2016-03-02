@@ -78,7 +78,7 @@ C – Altura do assento ao chão – dianteira (3.3)
 D – Altura do assento ao chão – traseira (3.4)
 E – Altura do assento ao apoio de pés (3.5)
 F – Altura do encosto (3.6)
-G –  ngulo do encosto (3.7)
+G – Ângulo do encosto (3.7)
 H – Centro de gravidade das rodas traseiras (3.8)
 I – Largura inferior do apoio de pés (3.9)
 K – Distância da roda ao quadro (3.11)
@@ -100,7 +100,6 @@ A medida do tronco, região sacral até a base da escápula.
 G –  ngulo do encosto 
 Medida do tronco mais ereto ou pouco reclinado. Variação deve ser 90º
 H – Centro de gravidade / posição das rodas traseiras 
-Medida importante.
 De acordo com a posição das rodas traseiras, mais à frente ou atrás, a cadeira fica mais fácil de tocar, pois distribue-se melhor o peso. 
 I – Largura inferior do apoio de pés
  Medida da largura para o apoio dos pés.
