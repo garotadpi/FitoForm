@@ -1,6 +1,6 @@
 # FitoForm
 Aplicativo de prescrição de cadeira de rodas
-Votados para Fisioterapeutas e Terapeutas Ocupacionais
+Votados para Fisioterapeutas e Terapeutas Ocupacionais com situação regularizada no CREFITO.
 Plataforma mínima: Android 40.3
 
 Modelo de Formulário:
@@ -154,10 +154,5 @@ Extras/opcionais
 TELA 6
 Final
 Visualização da cadeira de rodas com medidas + download
-
-
-PLANO DE ESTRUTURA: Navegação
-
-\/
 
 
