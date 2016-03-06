@@ -7,12 +7,15 @@
         <ImageView
             android:layout_marginTop="40dp"
             android:layout_width="match_parent"
-            android:layout_height="140dp"
-            android:src="@drawable/fitoform"/>
+            android:layout_height="200dp"
+            android:src="@drawable/fitoform"
+            android:layout_gravity="center"
+            android:layout_margin="10dp" />
 
     <RelativeLayout
-        android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_width="360dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="center">
 
         <TextView
             android:layout_width="wrap_content"
@@ -42,9 +45,7 @@
             android:textAppearance="?android:attr/textAppearanceMedium"
             android:text="@string/logintxtsenha"
             android:id="@+id/textloginsenha"
-            android:layout_above="@+id/editTextsenha"
-            android:layout_alignParentLeft="true"
-            android:layout_alignParentStart="true" />
+            android:layout_above="@+id/editTextsenha" />
 
         <EditText
             android:layout_width="match_parent"
@@ -84,12 +85,11 @@
         <TextView android:text="@string/loginname" android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/textview"
-            android:textSize="40sp"
+            android:textSize="30dp"
             android:layout_gravity="center_horizontal"
-            android:layout_above="@+id/logintxtcrefito"
             android:layout_toLeftOf="@+id/button_login"
             android:layout_toStartOf="@+id/button_login"
-            android:layout_marginBottom="42dp" />
+            android:layout_above="@+id/logintxtcrefito" />
 
     </RelativeLayout>
 
